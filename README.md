@@ -15,7 +15,7 @@ There are various ways to define a churn, such as: 1. Churn-based churn 2. Consu
 <h2> Purpose of Business </h2>
 The goal of the business is to predict the fluctuations of the previous month (i.e. the ninth) using data (features) from the first three months. In order to do this job well, understanding the normal behavior of the customer during the interview will help.
 <br>
-![model](https://user-images.githubusercontent.com/60137554/169678438-5805269a-0497-40a1-a020-85b32ea87e51.png)
+<img src="/model.png" alt="Alt text" title="Optional title">
 
 <br>________________________________________________________________________________________________________________________________________________________<br>
 Understanding Customer Conduct During Churn Customers usually do not decide to switch competitors immediately, but rather over time (this applies especially to high value customers). In churn prediction, we assume that there are three phases of the customer life cycle:
